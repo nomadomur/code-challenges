@@ -1,0 +1,20 @@
+# TODO fayl - shaxsiy foydalanish uchun
+TODO.md
+problems_tracker.csv
+
+# IDE fayllari
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS fayllari
+.DS_Store
+Thumbs.db
+
+# Log fayllari
+*.log
+
+# Temporary fayllar
+*.tmp
+*.temp 
