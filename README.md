@@ -2,8 +2,6 @@
 
 Solutions to coding problems from HackerRank, AtCoder, LeetCode, and more.
 
-# code-challenges
-
 [![GitHub stars](https://img.shields.io/github/stars/nomadomur/code-challenges.svg?style=social)](https://github.com/nomadomur/code-challenges/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/nomadomur/code-challenges.svg?style=social)](https://github.com/nomadomur/code-challenges/network)
 [![GitHub last commit](https://img.shields.io/github/last-commit/nomadomur/code-challenges?style=flat-square)](https://github.com/nomadomur/code-challenges)
