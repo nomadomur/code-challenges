@@ -4,9 +4,9 @@ Solutions to coding problems from HackerRank, AtCoder, LeetCode, and more.
 
 ## HackerRank Challenges
 
-| Platform   | Programming Languages |
-|------------|-----------------------|
-| HackerRank | [C](./hackerrank/c/README.md)<br>[C++](./hackerrank/cpp/README.md)<br>[Java](./hackerrank/java/README.md)<br>[Linux/Bash](./hackerrank/linux/bash/README.md)<br>[Python](./hackerrank/python/README.md)<br>[SQL](./hackerrank/sql/README.md) |
+| [C](./hackerrank/c/README.md) | [C++](./hackerrank/cpp/README.md) | [Java](./hackerrank/java/README.md) | [Linux/Bash](./hackerrank/linux/bash/README.md) | [Python](./hackerrank/python/README.md) | [SQL](./hackerrank/sql/README.md) |
+
+<a href="./hackerrank/c/README.md" style="padding:10px 15px; background-color:#007BFF; color:white; text-decoration:none; border-radius:5px;">C</a>
 
 ---
 
