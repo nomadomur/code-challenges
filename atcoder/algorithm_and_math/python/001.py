@@ -9,7 +9,7 @@
 
 # 整数 N が与えられるので、りんごとみかんを合わせて何個あるかを出力するプログラムを作成してください。
 
-def add(a: int, b: int) -> int:
+def add(a: int, b: int):
     return a + b
 
 if __name__ == "__main__":
