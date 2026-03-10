@@ -1,12 +1,12 @@
 # 008 - Brute Force 1 
-# 実行時間制限: 2 sec / メモリ制限: 1024 MiB
+# Ishga tushirish vaqti cheklovi: 2 soniya / Xotira cheklovi: 1024 MiB
 
-# 配点: 1000 点
+# Ball: 1000 ball
 
-# 問題文
-# 赤・青のカードが各 1 枚ずつあり、あなたはそれぞれのカードに 1 以上 N 以下の整数を 1 つ書き込みます。
+# Muammo matni
+# Qizil va ko'k kartalar har biri 1 tadan bor, siz har bir kartaga 1 dan N gacha butun son yozasiz.
 
-# カードに書かれた整数の合計が S 以下となる書き方は、いくつありますか？
+# Kartalarga yozilgan butun sonlarning yig'indisi S dan kam yoki teng bo'lgan yozish usullari nechta？
 
 def c_card_comb(n: int, s: int) -> int:
     count = 0
@@ -20,5 +20,5 @@ if __name__ == "__main__":
     n, s = map(int, input().split())
     print(c_card_comb(n, s))
     
-# コード長	    実行時間	メモリ
+# Kod uzunligi	Ishga tushirish vaqti	Xotira
 # 678 Byte		48 ms	8708 KiB	

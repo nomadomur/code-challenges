@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# Given two integers, X and Y, identify whether X < Y or X > Y or X = Y.
-# Exactly one of the following lines:
-    # X is less than Y
-    # X is greater than Y
-    # X is equal to Y
+# Ikki butun son berilgan, X va Y, X < Y yoki X > Y yoki X = Y ekanligini aniqlang.
+# Quyidagi qatorlardan faqat bittasi:
+    # X Y dan kichik
+    # X Y dan katta
+    # X Y ga teng
 
 read -r X
 read -r Y

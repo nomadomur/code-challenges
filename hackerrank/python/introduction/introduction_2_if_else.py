@@ -1,9 +1,9 @@
-# Given an integer, n , perform the following conditional actions:
+# Berilgan butun son, n, quyidagi shartli harakatlarni bajaring:
 
-# If n is odd, print Weird
-# If n is even and in the inclusive range of 2 to 5, print Not Weird
-# If n is even and in the inclusive range of 6 to 20, print Weird
-# If n is even and greater than 20, print Not Weird
+# Agar n toq bo'lsa, Weird chop eting
+# Agar n juft bo'lsa va 2 dan 5 gacha (shu jumladan), Not Weird chop eting
+# Agar n juft bo'lsa va 6 dan 20 gacha (shu jumladan), Weird chop eting
+# Agar n juft bo'lsa va 20 dan katta bo'lsa, Not Weird chop eting
 
 #!/bin/python3
 

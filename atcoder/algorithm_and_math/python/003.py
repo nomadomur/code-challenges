@@ -1,13 +1,12 @@
 # 003 - Sum of N Integers 
-# 実行時間制限: 1 sec / メモリ制限: 1024 MiB
+# Ishga tushirish vaqti cheklovi: 1 soniya / Xotira cheklovi: 1024 MiB
 
-# 配点: 1000 点
+# Ball: 1000 ball
 
-# 問題文
-# 整数 N と 
-# N 個の整数 A1 ,A2 ,⋯,AN が与えられます。（入力の形式は「入力」セクションを参照）
+# Muammo matni
+# Butun son N va N ta butun son A1, A2, ⋯, AN beriladi. (Kirish shakli uchun "Kirish" bo'limiga qarang)
 
-# A1 +A2 +⋯+AN を出力してください。
+# A1 + A2 + ⋯ + AN ni chiqaring.
 
 # --------------- 1 ---------------
 
@@ -19,7 +18,7 @@ if __name__ == "__main__":
     numbers = list(map(int, input().split()))
     print(sum_of_n(n, numbers))
     
-# コード長	    実行時間	メモリ
+# Kod uzunligi	Ishga tushirish vaqti	Xotira
 # 561 Byte		10 ms	8548 KiB
 
 # --------------- 2 ---------------

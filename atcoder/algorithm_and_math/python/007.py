@@ -1,11 +1,11 @@
 # 007 - Number of Multiples 1 
-# 実行時間制限: 1 sec / メモリ制限: 1024 MiB
+# Ishga tushirish vaqti cheklovi: 1 soniya / Xotira cheklovi: 1024 MiB
 
-# 配点: 1000 点
+# Ball: 1000 ball
 
-# 問題文
-# N 以下の正の整数の中で、
-# X の倍数または Y の倍数であるものの個数はいくつありますか？
+# Muammo matni
+# N dan kichik yoki teng musbat butun sonlar orasida、
+# X ning karralisi yoki Y ning karralisi bo'lganlarning soni nechta？
 
 def multiples_count(n: int, x: int, y: int) -> int:
     count = 0
@@ -18,5 +18,5 @@ if __name__ == "__main__":
     n, x, y = map(int, input().split())
     print(multiples_count(n, x, y))
     
-# コード長	    実行時間	メモリ
+# Kod uzunligi	Ishga tushirish vaqti	Xotira
 # 593 Byte		64 ms	8740 KiB

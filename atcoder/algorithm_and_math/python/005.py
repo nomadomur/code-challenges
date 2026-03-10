@@ -1,12 +1,12 @@
 # 005 - Modulo 100 
-# 実行時間制限: 1 sec / メモリ制限: 1024 MiB
+# Ishga tushirish vaqti cheklovi: 1 soniya / Xotira cheklovi: 1024 MiB
 
-# 配点: 1000 点
+# Ball: 1000 ball
 
-# 問題文
-# N 個の整数 a1 ,a2 ,⋯,aN が与えられます。
+# Muammo matni
+# N ta butun son a1, a2, ⋯, aN beriladi.
 
-# (a1 +a2 +⋯+aN )mod100 の値を出力してください。
+# (a1 +a2 +⋯+aN )mod100 qiymatini chiqaring.
 
 def modulo(numbers: list) -> int:
     return sum(numbers) % 100
@@ -16,5 +16,5 @@ if __name__ == "__main__":
     numbers = list(map(int, input().split()))
     print(modulo(numbers))
     
-# コード長	    実行時間	メモリ
+# Kod uzunligi	Ishga tushirish vaqti	Xotira
 # 432 Byte		9 ms	8632 KiB

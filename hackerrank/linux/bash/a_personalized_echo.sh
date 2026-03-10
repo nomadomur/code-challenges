@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Write a Bash script which accepts NAME as input and displays the greeting "Welcome (name)"
+# NAME ni qabul qiluvchi va "Welcome (name)" salomini ko'rsatuvchi Bash skriptini yozing
 
-read -r -p "Enter your name: " name
+read -r -p "Ismingizni kiriting: " name
 echo "Welcome $name"

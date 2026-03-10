@@ -1,7 +1,6 @@
 #!/bin/bash
 
-# Given two integers, X and Y, find their sum, difference, product, and quotient.
-
+# Ikki butun son berilgan, X va Y, ularning yig'indisini, ayirmasini, ko'paytmasini va bo'linmasini toping.
 read -r X
 read -r Y
 

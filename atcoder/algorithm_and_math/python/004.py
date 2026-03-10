@@ -1,13 +1,13 @@
 # 004 - Product of 3 Integers 
-# 実行時間制限: 1 sec / メモリ制限: 1024 MiB
+# Ishga tushirish vaqti cheklovi: 1 soniya / Xotira cheklovi: 1024 MiB
 
-# 配点: 
-# 1000 点
+# Ball: 
+# 1000 ball
 
-# 問題文
-# 3 つの整数 A1 ,A2 ,A3 が与えられます。
+# Muammo matni
+# 3 ta butun son A1, A2, A3 beriladi.
 
-# A1 A2 A3 を出力するプログラムを作成してください。
+# A1 A2 A3 ni chiqaruvchi dastur yarating.
 
 def product_of_three(a: int, b: int, c: int) -> int:
     return a * b * c
@@ -16,5 +16,5 @@ if __name__ == "__main__":
     a, b, c = map(int, input().split())
     print(product_of_three(a, b, c))
     
-# コード長	    実行時間	メモリ
+# Kod uzunligi	Ishga tushirish vaqti	Xotira
 # 444 Byte		10 ms	8644 KiB	

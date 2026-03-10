@@ -1,13 +1,13 @@
 # 001 - Print 5+N 
 
-# 実行時間制限: 1 sec / メモリ制限: 1024 MiB
+# Ishga tushirish vaqti cheklovi: 1 soniya / Xotira cheklovi: 1024 MiB
 
-# 配点: 1000 点
+# Ball: 1000 ball
 
-# 問題文
-# りんごが 5 個あり、みかんが N 個あります。
+# Muammo matni
+# 5 ta olma bor, N ta mandarin bor.
 
-# 整数 N が与えられるので、りんごとみかんを合わせて何個あるかを出力するプログラムを作成してください。
+# Butun son N beriladi, shuning uchun olma va mandarinlarni birgalikda nechta ekanligini chiqaruvchi dastur yarating.
 
 def add(a: int, b: int):
     return a + b
